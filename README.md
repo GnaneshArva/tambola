@@ -55,4 +55,5 @@ The core of the system is -> this Class Diagram
 2. GameFactory
 3. WinningStrategy(s)
 
-![img.png](img.png)
+
+![img_1.png](img_1.png)
